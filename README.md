@@ -55,17 +55,17 @@ Utilizamos o método de Euler para resolver a equação diferencial da velocidad
 
 - A velocidade em diferentes instantes de tempo é calculada aqui, e esse é o resultado.
 
-t = 0.0s, v = 8.00m/s
-t = 0.1s, v = 8.86m/s
-t = 0.2s, v = 9.70m/s
-t = 0.3s, v = 10.51m/s
-t = 0.4s, v = 11.29m/s
-t = 0.5s, v = 12.04m/s
-t = 0.6s, v = 12.75m/s
-t = 0.7s, v = 13.44m/s
-t = 0.8s, v = 14.09m/s
-t = 0.9s, v = 14.71m/s
-t = 1.0s, v = 15.30m/s
+- t = 0.0s, v = 8.00m/s
+- t = 0.1s, v = 8.86m/s
+- t = 0.2s, v = 9.70m/s
+- t = 0.3s, v = 10.51m/s
+- t = 0.4s, v = 11.29m/s
+- t = 0.5s, v = 12.04m/s
+- t = 0.6s, v = 12.75m/s
+- t = 0.7s, v = 13.44m/s
+- t = 0.8s, v = 14.09m/s
+- t = 0.9s, v = 14.71m/s
+- t = 1.0s, v = 15.30m/s
 
 ## Questão 03
 
