@@ -11,7 +11,7 @@ Este relatório apresenta a resolução de três questões sobre equações dife
 
 ### Enunciado
 
-Usando os métodos de Euler e Runge-Kutta de 3ª ordem com \( h = 0.2 \), calcule \( y(1) \), sabendo que \( y(x) \) é a solução da equação diferencial:
+Usando os métodos de Euler e Runge-Kutta de 3ª ordem com \ h = 0.2 \, calcule \ y(1) \, sabendo que \ y(x) \ é a solução da equação diferencial:
 
 \[
 y' = f(x, y)
@@ -29,8 +29,8 @@ A equação diferencial foi resolvida utilizando os métodos de Euler e Runge-Ku
 
 ### Resultado
 
-- **Euler**: \( y(1) \) aproximado = 0.53888
-- **Runge-Kutta de 3ª ordem**: \( y(1) \) aproximado = 0.5671710710308493
+- **Euler**: \ y(1) \ aproximado = 0.53888
+- **Runge-Kutta de 3ª ordem**: \ y(1) \ aproximado = 0.5671710710308493
 
 Os erros absolutos podem ser calculados comparando com a solução exata fornecida.
 
@@ -38,7 +38,7 @@ Os erros absolutos podem ser calculados comparando com a solução exata forneci
 
 ### Enunciado
 
-Um projétil de massa \( m = 0.11 \) kg, lançado verticalmente para cima com velocidade inicial \( v(0) = 8 \) m/s, é detido pela força gravitacional \( F_g = mg \) e a resistência do ar \( F_r = -kv|v| \), onde \( g = -9.8 \) m/s² e \( k = 0.002 \) kg/m. A equação diferencial para a velocidade é:
+Um projétil de massa \ m = 0.11 \ kg, lançado verticalmente para cima com velocidade inicial \v(0) = 8 \ m/s, é detido pela força gravitacional \F_g = mg \ e a resistência do ar \F_r = -kv|v| \, onde \g = -9.8 \ m/s² e \ k = 0.002 \ kg/m. A equação diferencial para a velocidade é:
 
 \[
 m v' = mg - kv|v|
@@ -71,13 +71,13 @@ Utilizamos o método de Euler para resolver a equação diferencial da velocidad
 
 ### Enunciado
 
-Seja \( P(t) \) o número de indivíduos de uma população. A taxa de nascimentos é constante \( b \), e a taxa de mortalidade \( d \) é proporcional ao tamanho da população. O crescimento da população é descrito pela equação logística:
+Seja \ P(t) \ o número de indivíduos de uma população. A taxa de nascimentos é constante \ b \, e a taxa de mortalidade \ d \ é proporcional ao tamanho da população. O crescimento da população é descrito pela equação logística:
 
 \[
 P'(t) = bP(t) - dP(t)^2
 \]
 
-Sabendo que \( P(0) = 50.976 \), \( b = 2.9 \times 10^{-2} \) e \( k = 1.4 \times 10^{-7} \), calcule a população estimada depois de 5 anos utilizando Runge-Kutta de 4ª ordem.
+Sabendo que \ P(0) = 50.976 \, \ b = 2.9 \times 10^{-2} \ e \ k = 1.4 \times 10^{-7} \, calcule a população estimada depois de 5 anos utilizando Runge-Kutta de 4ª ordem.
 
 ### Solução
 
@@ -85,4 +85,4 @@ Usamos o método de Runge-Kutta de 4ª ordem para resolver a equação logístic
    
 ### Resultado
 
-- **População estimada após 5 anos**: \( P(t) \approx \) 56751 pessoas.
+- **População estimada após 5 anos**: Aproximadamente 56751 pessoas.
